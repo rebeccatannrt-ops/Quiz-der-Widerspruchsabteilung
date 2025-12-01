@@ -1,4 +1,23 @@
-<!DOCTYPE html>
-<html lang="de">
-<head><meta charset="UTF-8" /><title>Widerspruchsabteilung Weihnachtsquiz 🎄</title></head>
-<body><h1>🎅 Widerspruchsabteilung Weihnachtsquiz 🎄</h1><p>Hier käme der vollständige HTML-Code deiner Website.</p></body></html>
+und Weihnachtsmusik 🎶!`;
+
+      } else {
+
+        message = `😅 ${score}/${total} richtig – dafür bist du sicher beim Plätzchenbacken unschlagbar! 🍪`;
+
+      }
+
+      const resultDiv = document.getElementById('result');
+
+      resultDiv.innerHTML = message;
+
+      resultDiv.classList.remove('hidden');
+
+      window.scrollTo(0, document.body.scrollHeight);
+
+    }
+
+  </script>
+
+</body>
+
+</html>
