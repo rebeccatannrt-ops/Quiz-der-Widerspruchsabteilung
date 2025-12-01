@@ -1,0 +1,1 @@
+Diese ZIP-Datei enthält die fertige Weihnachtsquiz-Website der Widerspruchsabteilung, sowie den QR-Code zur temporären Online-Version. Bereit zur Nutzung (z. B. über GitHub Pages).
